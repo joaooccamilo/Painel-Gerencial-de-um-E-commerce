@@ -17,3 +17,11 @@ Desenvolvi um dashboard para um e-commerce, fornecendo insights cruciais para ot
 
 ⚠ O dashboard proporciona uma visão do estilo de compra de cada cliente, possibilitando a identificação de padrões, além disso exibe o faturamento por ciclos, clientes e cidades específicas, assim, ajudando na personalização da estratégia financeira.
 
+### Telas 
+
+![Tela_Inicial](https://github.com/joaooccamilo/Painel-Gerencial-de-um-E-commerce/assets/61191857/52d59946-d3d3-44cd-b6db-f1e1178bfa2d)
+
+
+
+![TELA_FILTRO](https://github.com/joaooccamilo/Painel-Gerencial-de-um-E-commerce/assets/61191857/59fe7184-9fa8-432f-a586-9ba2ef35890a)
+
